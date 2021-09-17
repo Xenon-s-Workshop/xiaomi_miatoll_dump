@@ -1,0 +1,5 @@
+system/system/apex/com.android.vndk.current.apex
+bootimg/02_dtbdump_Qualcomm_Technologies,_Inc._ATOLL-AB_SoC.dtb
+system_ext/apex/com.android.vndk.v29.apex
+boot.img
+product/app/webview/webview.apk

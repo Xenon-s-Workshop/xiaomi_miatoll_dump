@@ -1,0 +1,14 @@
+# RQ3A.210805.001.A1
+- manufacturer: 
+- platform: atoll
+- codename: miatoll
+- flavor: lineage_miatoll-userdebug
+- release: 11
+- id: RQ3A.210805.001.A1
+- incremental: eng.a9itoo.20210817.234258
+- tags: release-keys
+- fingerprint: Xiaomi/lineage_miatoll/miatoll:11/RQ3A.210805.001.A1/a9itoo08172340:userdebug/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: RQ3A.210805.001.A1
+- repo: xiaomi_miatoll_dump
